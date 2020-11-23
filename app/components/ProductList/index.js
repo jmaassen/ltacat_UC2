@@ -332,8 +332,7 @@ class PipelineConfigurator extends React.Component {
             schema={this.props.pipeline.schema}
             updateValue={this.updateDerived}
             theme="bootstrap3"
-            icon="fontawesome5"
-            disableCollapse="true">
+            icon="fontawesome5">
         </JSONEditor>
       <p></p>
       <p></p>
